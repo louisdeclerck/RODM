@@ -1,3 +1,7 @@
+//Pour compiler ce fichier faire : gcc Exo.c -O9 -o Exo2 -std=c99
+
+//pour l'executer ./Exo2 Mon_Fichier.txt
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
